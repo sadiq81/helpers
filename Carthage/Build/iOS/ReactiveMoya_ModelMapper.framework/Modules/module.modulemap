@@ -1,0 +1,4 @@
+framework module ReactiveMoya_ModelMapper {
+    header "ReactiveMoya_ModelMapper-Swift.h"
+    requires objc
+}

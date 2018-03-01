@@ -1,0 +1,4 @@
+framework module RxMoya_ModelMapper {
+    header "RxMoya_ModelMapper-Swift.h"
+    requires objc
+}

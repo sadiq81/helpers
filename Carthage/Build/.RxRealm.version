@@ -1,0 +1,9 @@
+{
+  "commitish" : "0.7.5",
+  "iOS" : [
+    {
+      "name" : "RxRealm",
+      "hash" : "48d29b4c134707c05ff68887e468c2887baff591296e8905446fa8e50f47dfba"
+    }
+  ]
+}

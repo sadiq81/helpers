@@ -1,0 +1,9 @@
+{
+  "commitish" : "d7708b1d7a8ae6832c707afcb9d227d537c3e5fa",
+  "iOS" : [
+    {
+      "name" : "NotificationBanner",
+      "hash" : "6f9b2fcb64a79da6a7c91716983c2a50f6b04ce183990b7986d8e1e646f439dd"
+    }
+  ]
+}

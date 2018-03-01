@@ -1,0 +1,6 @@
+helper.xcodeproj/project.xcworkspace/xcuserdata/
+Carthage/Checkouts/
+Carthage/Build/Mac/
+Carthage/Build/tvOS/
+Carthage/Build/watchOS/
+helper.xcodeproj/xcuserdata

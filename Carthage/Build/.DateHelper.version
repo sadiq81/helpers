@@ -1,0 +1,9 @@
+{
+  "commitish" : "4.2.7",
+  "iOS" : [
+    {
+      "name" : "DateHelper",
+      "hash" : "6a75ab8c4e3336fc7ccbcd092f2d2fce0109fb569b0bb8681303ced3f51e5617"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+framework module Moya_ModelMapper {
+    header "Moya_ModelMapper-Swift.h"
+    requires objc
+}

@@ -1,0 +1,23 @@
+#carthage update --platform iOS --no-use-binaries --new-resolver --cache-builds
+
+github "sadiq81/NotificationBanner" "d7708b1d7a8ae6832c707afcb9d227d537c3e5fa"
+github "SVProgressHUD/SVProgressHUD"
+github "glaszig/SZTextView"
+
+github "hackiftekhar/IQKeyboardManager" "v5.0.6"
+github "SnapKit/SnapKit" ~> 4.0.0
+
+github "onevcat/Kingfisher" ~> 4.2.0
+github "jrendel/SwiftKeychainWrapper" ~> 3.0
+
+# github "ReactiveX/RxSwift" ~> 4.0.0
+github "RxSwiftCommunity/RxSwiftExt" ~> 3.2.0
+
+# github "realm/realm-cocoa" ~> 3.0.1
+github "RxSwiftCommunity/RxRealm" ~> 0.7.5
+
+# github "lyft/mapper" "master"
+# github "Moya/Moya" ~> 11.0.0
+github "sadiq81/Moya-ModelMapper" "d3c0008bfe06427a05f96d2702865f3fa6557168"
+
+github "melvitax/DateHelper" ~> 4.2.7
